@@ -3,8 +3,8 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/kierdev/beast-link-backend.git
-cd beast-link-backend
+git clone https://github.com/kontzen/adm-result-backend.git
+cd adm-result-backend
 ```
 
 ### Step 2: Install Dependencies
